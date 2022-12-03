@@ -1,0 +1,9 @@
+#camera,#result{
+    height: 150px;
+    width: 150px;
+    border-color: black;
+    border-style: dashed;
+}
+body{
+    background-color: rgb(245, 228, 255);
+}
